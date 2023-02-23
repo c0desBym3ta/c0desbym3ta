@@ -1,6 +1,6 @@
-<div align="center">
+<div id="header" align="center">
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 2%> I'm Daniel Cullhaj (AKA: m3ta),
-<div align="center"/>
+<div id="header" align="center"/>
   
 <div id="header" align="center">
   <div id="header" align="center">
