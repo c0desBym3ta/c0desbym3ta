@@ -36,7 +36,7 @@ I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com
 
 - :zap: In my free time, i like sports and solving challenges.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cullhaj/)
+- :mailbox:How to reach me: m3tahckr@protonmail.com
   
  <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="6%"> </h3>
 <a href = 'https://www.github.com/c0desbym3ta'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
