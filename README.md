@@ -28,6 +28,14 @@
  
 I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
   
+
+- :telescope: I’m working as a Cyber Security Specialist (Purple Teaming) and contributing at attack and defence operations..
+
+- :seedling: Exploring new Cyber Security Certifications.
+
+- :zap: In my free time, i like sports and solving challenges.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cullhaj/)
   
   
 A Cyber Security passionate about offensive security and penetration testing :bar_chart:
