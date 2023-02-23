@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ---
-
+<div align="left">
 ### :woman_technologist: About Me :
  
 I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
@@ -37,6 +37,7 @@ I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cullhaj/)
   
+<div align="left"/>
   
 A Cyber Security passionate about offensive security and penetration testing :bar_chart:
 
