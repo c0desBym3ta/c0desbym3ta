@@ -50,4 +50,4 @@ I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c0desbym3ta&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0desbym3ta&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0desbym3ta&show_icons=true&theme=dracula)
