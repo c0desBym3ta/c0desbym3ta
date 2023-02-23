@@ -22,7 +22,11 @@
 <div align="center"/>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
+---
 
+### :woman_technologist: About Me :
+  
+  
 A Cyber Security passionate about offensive security and penetration testing :bar_chart:
 
 🌱 I’m currently learning **Computer Engineering** - Bachelors degree at University of Florence <br>
