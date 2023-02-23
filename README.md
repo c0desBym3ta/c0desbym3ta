@@ -1,5 +1,7 @@
+<div align="center">
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 2%> I'm m3ta,
-
+<div align="left"/>
+  
 <div id="header" align="center">
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="100"/>
@@ -45,12 +47,4 @@ I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com
 <a href= https://github.com/c0desbym3ta?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <div align="left"/>
   
-A Cyber Security passionate about offensive security and penetration testing :bar_chart:
-
-🌱 I’m currently learning **Computer Engineering** - Bachelors degree at University of Florence <br>
-🎓 <br>
-👨‍💼 Currently working as Cyber Security Specialist  @SavinoDelBeneIT <br>
-:bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science** <br>
-📫 How to reach me: m3tahckr@protonmail.com
-
 
