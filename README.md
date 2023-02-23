@@ -46,4 +46,7 @@ I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com
 <a href= https://github.com/c0desbym3ta?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <div align="left"/>
   
+ ---
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c0desbym3ta&theme=dark&background=000000)](https://git.io/streak-stats)
 
