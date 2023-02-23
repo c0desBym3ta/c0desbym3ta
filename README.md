@@ -25,6 +25,9 @@
 ---
 
 ### :woman_technologist: About Me :
+ 
+I am a Cyber Security specialist (purple team) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+  
   
   
 A Cyber Security passionate about offensive security and penetration testing :bar_chart:
